@@ -1,4 +1,5 @@
 
 def fizzbuzz
-  if fizzbuzz/3
+  if fizzbuzz/3 = true
+    puts "Fizz"
 end
